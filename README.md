@@ -348,5 +348,8 @@ AI产品准确性评估：
 ![产品核心功能流程](https://upload-images.jianshu.io/upload_images/9455351-58d89d77f9e1df33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## （四）产品原型设计
+![相册](https://upload-images.jianshu.io/upload_images/9455351-e6f227852ac164a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![智能相册](https://upload-images.jianshu.io/upload_images/9455351-135a4c64364ca7e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
