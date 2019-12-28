@@ -54,6 +54,7 @@ Epic|回忆卡--智能相册管家
 #### API测试案例一：
 
 所调用的API：[百度图像识别--通用物体和场景识别](https://ai.baidu.com/tech/imagerecognition/general)
+
 代码示例文档：[技术文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Xk3bcxe21)
 
 输入：
@@ -101,7 +102,9 @@ Epic|回忆卡--智能相册管家
 #### API测试案例二：
 
 所调用API：[腾讯云--图像分析](https://cloud.tencent.com/act/event/tiiademo)
+
 代码示例文档：[技术文档](https://cloud.tencent.com/document/api/865/35471#4.-.E7.A4.BA.E4.BE.8B)
+
 输入：
 ![输入的图片](https://upload-images.jianshu.io/upload_images/9455351-2f702bbca7858533.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ```
@@ -165,6 +168,7 @@ DetectLabel:
 #### API测试案例一：
 
 所调用的API:[百度文字识别--通用文字识别](https://ai.baidu.com/tech/ocr/general)
+
 代码示例文档：[示例文档](https://ai.baidu.com/docs#/OCR-API-GeneralBasic/db0895e7)
 
 输入：
