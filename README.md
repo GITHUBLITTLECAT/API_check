@@ -190,8 +190,11 @@ DetectLabel:
 }
 ```
 #### API测试案例二：
+
 所调用的API：[腾讯云--文字识别](https://cloud.tencent.com/act/event/ocrdemo)
+
 代码示例文档：[技术文档](https://cloud.tencent.com/document/product/866/34937)
+
 输入：
 ![输入的图片](https://upload-images.jianshu.io/upload_images/9455351-8a9c0ebbf9192046.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 输出
