@@ -349,6 +349,24 @@ AI产品准确性评估：
 
 ## （四）产品原型设计
 ![相册](https://upload-images.jianshu.io/upload_images/9455351-e6f227852ac164a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![智能相册](https://upload-images.jianshu.io/upload_images/9455351-135a4c64364ca7e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![其他相册](https://upload-images.jianshu.io/upload_images/9455351-8423276075711b47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![功能](https://upload-images.jianshu.io/upload_images/9455351-ff2c7706722ae765.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![笔记本](https://upload-images.jianshu.io/upload_images/9455351-37b51b4bc88a1cb3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![我的笔记](https://upload-images.jianshu.io/upload_images/9455351-99346bba60dd537c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![清理相似/模糊的图片A](https://upload-images.jianshu.io/upload_images/9455351-401e3d871e114906.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![清理相似/模糊的图片B](https://upload-images.jianshu.io/upload_images/9455351-8ecd1bfa17cacd4a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![回收站](https://upload-images.jianshu.io/upload_images/9455351-1f3c6eddc739df2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![共享相册](https://upload-images.jianshu.io/upload_images/9455351-c15f325aafed0e26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![我的](https://upload-images.jianshu.io/upload_images/9455351-8a299615054b70bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
