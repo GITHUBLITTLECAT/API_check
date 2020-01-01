@@ -317,15 +317,19 @@ DetectLabel:
 ## （三）API使用比较分析--AI产品概率性
 ### 1.API定价：
 * 百度图像识别--通用物体和场景识别：[定价文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/gk3bcx9n1)
+
 ![图像识别定价](https://upload-images.jianshu.io/upload_images/9455351-0acf500ea38fdca4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * 百度文字识别--通用文字识别：[定价文档](https://ai.baidu.com/ai-doc/OCR/9k3h7xuv6)
+
 ![文字识别定价](https://upload-images.jianshu.io/upload_images/9455351-8023e146ce85a7d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * 腾讯云图像分析--图片标签：[定价文档](https://buy.cloud.tencent.com/price/imagetag)
+
 ![image.png](https://upload-images.jianshu.io/upload_images/9455351-354d25f5e0611457.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * 腾讯云文字识别--通用文字识别：[定价文档](https://buy.cloud.tencent.com/price/ocr#E4BAA7E59381E4BBB7E6A0BC)
+
 ![文字识别](https://upload-images.jianshu.io/upload_images/9455351-1ed363cddbe7f6e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 2.AI产品概率性评估
