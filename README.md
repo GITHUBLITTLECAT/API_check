@@ -353,7 +353,7 @@ AI产品准确性评估：
 处理方法
 * 根据用户部分的手动分类操作记录数据，提升图片识别分类、文字识别的准确性
 
-# 第三部分：产品架构与原型设计--[完整原型文档](http://baiyingv.gitee.io/api_final)
+# 第三部分：产品架构与原型设计--[完整原型文档](http://baiyingv.gitee.io/api-huiyi)
 **********
 ## （一）产品信息结构图
 ![产品信息结构](https://upload-images.jianshu.io/upload_images/9455351-d149e71c23ade50a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
