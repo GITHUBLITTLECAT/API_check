@@ -8,7 +8,7 @@ Epic|回忆卡--智能相册管家
 领头开发者|杨亦昊
 领头测试者|杨亦昊
 
-[完整产品原型文档](http://baiyingv.gitee.io/api-huiyi)
+# [完整产品原型文档](http://baiyingv.gitee.io/api-huiyi)
 
 ## 价值主张设计
 ### 一句话：
