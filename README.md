@@ -7,6 +7,9 @@ Epic|回忆卡--智能相册管家
 领头设计者|杨亦昊
 领头开发者|杨亦昊
 领头测试者|杨亦昊
+
+[完整产品原型文档](http://baiyingv.gitee.io/api-huiyi)
+
 ## 价值主张设计
 ### 一句话：
 回忆卡--智能相册管家通过获取用户手机的图片基于图像识别API，为图片进行智能分类，自动生成分类相册，为用户省去图片分类的麻烦，同时在智能分类相册的基础上，相册管家还将结合文字识别API，通过识别图片文字，帮助用户整理图片文字形成文字笔记。
@@ -367,7 +370,7 @@ AI产品准确性评估：
 ## （三 ）产品核心功能流程图
 ![产品核心功能流程](https://upload-images.jianshu.io/upload_images/9455351-55a3398e352e78b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## （四）产品原型设计--[完整原型文档](http://baiyingv.gitee.io/api_final)
+## （四）产品原型设计--[完整产品原型文档](http://baiyingv.gitee.io/api-huiyi)
 ![相册](https://upload-images.jianshu.io/upload_images/9455351-e6f227852ac164a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![智能相册](https://upload-images.jianshu.io/upload_images/9455351-c92dee2917ef6fba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
