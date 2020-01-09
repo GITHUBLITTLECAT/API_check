@@ -1,5 +1,7 @@
 # 回忆卡--智能相册管家
-## ## [20x20价值主张设计](https://raw.githubusercontent.com/GITHUBLITTLECAT/API_check/master/20x20.pptx)
+
+## [20x20PPT展示](https://raw.githubusercontent.com/GITHUBLITTLECAT/API_check/master/20x20.pptx)
+
 发布日期|2019/12/20
   ----  | ----    
 Epic|回忆卡--智能相册管家
